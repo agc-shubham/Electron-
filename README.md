@@ -13,5 +13,5 @@ Concepts learned:
 Concepts learned:
 1. Creating and editing Menu tray for app.
 2. Nitty Gritty changes required for different platforms(mainly Mac and Windows).
-3. Different parts of the aplication required in production vs deployment requirement.
+3. Different parts of the application required in production vs deployment(adding default hotkeys).
 
